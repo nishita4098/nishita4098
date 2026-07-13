@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=80&lines=👩🏻‍💻+Full+Stack+Developer;Cloud+Computing+Enthusiast;Java+%7C+Python+%7C+AWS" />
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/nishita-gupta-62348a284/">LinkedIn</a> •
-<a href="nishita4098@gmail.com">Email</a> •
-<a href="https://github.com/nishita4098">GitHub</a> •
-<a href="https://leetcode.com/u/nishita4098/">LeetCode</a>
-</p>
-
 ```text
 ███╗   ██╗██╗███████╗██╗  ██╗██╗████████╗ █████╗
 ████╗  ██║██║██╔════╝██║  ██║██║╚══██╔══╝██╔══██╗
@@ -19,14 +12,13 @@
 ██║ ╚████║██║███████║██║  ██║██║   ██║   ██║  ██║
 ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
 
- ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗
-██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗
-██║  ███╗██║   ██║██████╔╝   ██║   ███████║
-██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║
-╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║
- ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝
 ```
-
+<p align="center">
+<a href="https://www.linkedin.com/in/nishita-gupta-62348a284/">LinkedIn</a> •
+<a href="nishita4098@gmail.com">Email</a> •
+<a href="https://github.com/nishita4098">GitHub</a> •
+<a href="https://leetcode.com/u/nishita4098/">LeetCode</a>
+</p>
 ## $ whoami
 
 ```bash
@@ -57,8 +49,8 @@ nishita@github:~$
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nishita4098&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishita4098&layout=compact&theme=tokyonight"/>
 </p>
 
 ## 🐍 Contribution Snake
@@ -74,13 +66,11 @@ https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-cont
 | Project | Tech | Status |
 |---|---|---|
 | Portfolio Website | React, Tailwind | 🚀 |
-| AWS Static Website | AWS S3 | ☁️ |
 | Full Stack App | MERN | 💻 |
-| Java DSA | Java | 📚 |
 
 ## 👀 Visitors
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=nishita4098&style=for-the-badge&color=blueviolet)
 
 ## 💭 Quote
 
