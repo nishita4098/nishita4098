@@ -1,18 +1,23 @@
-# 👩‍💻 Nishita Gupta
+```text
+               
+                                   ███╗   ██╗██╗███████╗██╗  ██╗██╗████████╗ █████╗
+                                   ████╗  ██║██║██╔════╝██║  ██║██║╚══██╔══╝██╔══██╗
+                                   ██╔██╗ ██║██║███████╗███████║██║   ██║   ███████║               
+                                   ██║╚██╗██║██║╚════██║██╔══██║██║   ██║   ██╔══██║
+                                   ██║ ╚████║██║███████║██║  ██║██║   ██║   ██║  ██║
+                                   ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
 
+                                         ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗
+                                         ██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗
+                                         ██║  ███╗██║   ██║██████╔╝   ██║   ███████║
+                                         ██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║
+                                         ╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║
+                                          ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝
+
+```
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=80&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Java+%7C+Python+%7C+AWS" />
 </p>
-
-```text
-███╗   ██╗██╗███████╗██╗  ██╗██╗████████╗ █████╗
-████╗  ██║██║██╔════╝██║  ██║██║╚══██╔══╝██╔══██╗
-██╔██╗ ██║██║███████╗███████║██║   ██║   ███████║
-██║╚██╗██║██║╚════██║██╔══██║██║   ██║   ██╔══██║
-██║ ╚████║██║███████║██║  ██║██║   ██║   ██║  ██║
-╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
-
-```
 <p align="center">
 
 <a href="https://www.linkedin.com/in/nishita-gupta-62348a284/">
@@ -41,10 +46,10 @@
 nishita@github:~$
 
 ├── Final Year B.Tech CSE
-├── Cloud Computing & Automation
 ├── Full Stack Developer
+├── AI Enthusiast
 ├── Java • Python • JavaScript
-├── AWS Enthusiast
+├──Exploring Cloud & DevOps
 └── Looking for Software Engineering Opportunities
 ```
 
@@ -56,10 +61,11 @@ nishita@github:~$
 
 ## 📚 Current Focus
 
-- ☁️ AWS
-- 🌐 MERN Stack
-- 📈 DSA in Java
-- 💻 Full Stack Projects
+- ☁️ Full Stack Projects 
+- 🌐 Cloud Computing (AWS)
+- 📈 DevOps & CI/CD
+- 🤖 Artificial Intelligence
+- 💻 Java & Python
 - 🎯 Placement Preparation
 
 ## 📊 GitHub Stats
@@ -74,15 +80,75 @@ nishita@github:~$
 Replace after enabling GitHub Action:
 
 ```md
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg
+https://raw.githubusercontent.com/nishita4098/nishita4098/output/github-contribution-grid-snake-dark.svg
 ```
+## > STACK — Loaded Modules
 
-## 💼 Featured Projects
+<table>
+<tr>
+<td><b>🧠 Layer</b></td>
+<td><b>⚡ Modules</b></td>
+</tr>
 
-| Project | Tech | Status |
-|---|---|---|
-| Portfolio Website | React, Tailwind | 🚀 |
-| Full Stack App | MERN | 💻 |
+<tr>
+<td><b>💻 Languages</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=java,python,js" />
+
+</td>
+</tr>
+
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs" />
+
+</td>
+</tr>
+
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+
+</td>
+</tr>
+
+<tr>
+<td><b>🤖 AI / ML</b></td>
+<td>
+
+  • Prompt Engineering • Multi-Agent AI 
+
+</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+FAISS
+
+</td>
+</tr>
+
+<tr>
+<td><b>☁️ Cloud & DevOps</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+Vercel • Railway • JWT • Socket.io • SSE • n8n
+
+</td>
+</tr>
+
+</table>
 
 ## 👀 Visitors
 
