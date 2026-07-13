@@ -70,14 +70,18 @@ nishita@github:~$
 
 ## 📊 GitHub Stats
 
+## ▶ STATS — Runtime Metrics
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nishita4098&show_icons=true&theme=tokyonight"
-    height="170"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=nishita4098&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishita4098&layout=compact&theme=tokyonight"
-    height="170"
+    width="49%"
+    src="https://streak-stats.demolab.com?user=nishita4098&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
   />
 </p>
 
