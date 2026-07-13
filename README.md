@@ -14,11 +14,27 @@
 
 ```
 <p align="center">
-<a href="https://www.linkedin.com/in/nishita-gupta-62348a284/">LinkedIn</a> •
-<a href="nishita4098@gmail.com">Email</a> •
-<a href="https://github.com/nishita4098">GitHub</a> •
-<a href="https://leetcode.com/u/nishita4098/">LeetCode</a>
-</p>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nishita-gupta-62348a284/">
+  <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-0A0F1F?style=for-the-badge&logo=vercel&logoColor=00D9FF" />
+</a>
+
+<a href="mailto:nishita4098@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/nishita4098">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00D9FF" />
+</a>
+
+<a href="https://leetcode.com/u/nishita4098/">
+  <img src="https://img.shields.io/badge/LeetCode-FFB000?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
 ## $ whoami
 
 ```bash
