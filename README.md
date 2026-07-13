@@ -1,7 +1,7 @@
 # 👩‍💻 Nishita Gupta
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=80&lines=👩🏻‍💻+Nishita+Gupta;Full+Stack+Developer;Cloud+Computing+Enthusiast;Java+%7C+Python+%7C+AWS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=80&lines=👩🏻‍💻+Full+Stack+Developer;Cloud+Computing+Enthusiast;Java+%7C+Python+%7C+AWS" />
 </p>
 
 <p align="center">
@@ -59,24 +59,6 @@ nishita@github:~$
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
 </p>
 
 ## 🐍 Contribution Snake
