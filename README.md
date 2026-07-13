@@ -16,7 +16,7 @@
 
 ```
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=80&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Java+%7C+Python+%7C+AWS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=80&lines=Full+Stack+Developer; Exploring+ Cloud+Computing+Artificial+Intelligence+Enthusiast;Java+%7C+Python+%7C+JavaScript" />
 </p>
 <p align="center">
 
@@ -49,7 +49,7 @@ nishita@github:~$
 ├── Full Stack Developer
 ├── AI Enthusiast
 ├── Java • Python • JavaScript
-├──Exploring Cloud & DevOps
+├── Exploring Cloud & DevOps
 └── Looking for Software Engineering Opportunities
 ```
 
@@ -71,17 +71,16 @@ nishita@github:~$
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nishita4098&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishita4098&layout=compact&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nishita4098&show_icons=true&theme=tokyonight"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishita4098&layout=compact&theme=tokyonight"
+    height="170"
+  />
 </p>
 
-## 🐍 Contribution Snake
-
-Replace after enabling GitHub Action:
-
-```md
-https://raw.githubusercontent.com/nishita4098/nishita4098/output/github-contribution-grid-snake-dark.svg
-```
 ## > STACK — Loaded Modules
 
 <table>
@@ -121,7 +120,7 @@ https://raw.githubusercontent.com/nishita4098/nishita4098/output/github-contribu
 <td><b>🤖 AI / ML</b></td>
 <td>
 
-  • Prompt Engineering • Multi-Agent AI 
+  • Prompt Engineering • Generative AI (GenAI) Learner
 
 </td>
 </tr>
@@ -143,7 +142,7 @@ FAISS
 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 
-Vercel • Railway • JWT • Socket.io • SSE • n8n
+Vercel • JWT 
 
 </td>
 </tr>
