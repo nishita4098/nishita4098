@@ -1,7 +1,7 @@
 # 👩‍💻 Nishita Gupta
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=80&lines=👩🏻‍💻+Full+Stack+Developer;Cloud+Computing+Enthusiast;Java+%7C+Python+%7C+AWS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&height=80&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Java+%7C+Python+%7C+AWS" />
 </p>
 
 ```text
@@ -15,7 +15,7 @@
 ```
 <p align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nishita-gupta-62348a284/">
+<a href="https://www.linkedin.com/in/nishita-gupta-62348a284/">
   <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
